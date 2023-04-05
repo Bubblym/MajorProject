@@ -1,4 +1,3 @@
 # MajorProject
-7Days of Weather Forecast
-![image](https://user-images.githubusercontent.com/129719840/230126821-317fff19-fbc0-4436-9c61-8cff58844200.png)
-
+# 7Days of Weather Forecast
+![image](https://user-images.githubusercontent.com/129719840/230128798-298a5cdd-1e3f-4a64-8ba4-7e305dc2d490.png)
